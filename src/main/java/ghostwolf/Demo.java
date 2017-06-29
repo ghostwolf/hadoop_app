@@ -4,5 +4,7 @@ package ghostwolf;
  * Created by wushubin on 2017/6/29.
  */
 public class Demo {
-    main
+    public static void main(String... args) throws Exception {
+        System.out.println("test ....   ");
+    }
 }
